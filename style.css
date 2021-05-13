@@ -3779,6 +3779,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 		flex-wrap: wrap;
 		-ms-flex-align: center;
 		align-items: center;
+		justify-content: flex-end;
 	}
 
 	.full-header .primary-menu .menu-container {
